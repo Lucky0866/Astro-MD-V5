@@ -1,7 +1,7 @@
 {
                "name": "Astro-Md",
                "version": "0.0.6",
-               "description": "Multi device whatsapp bot by Vihangayt.",
+               "description": "Multi device whatsapp bot by Lucky.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name AstroMD",
                 "stop": "pm2 stop AstroMD"
                 },
-               "author": "Vihangayt",
+               "author": "Lucky",
               "dependencies": {
                        "@adiwajshing/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
